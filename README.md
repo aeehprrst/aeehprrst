@@ -150,14 +150,8 @@ Instead of just listing frameworks, I like showing the work behind a project:
 | **Continuous integration** | [ChronoRoute GitHub Actions](https://github.com/aeehprrst/chronoroute/actions) |
 | **Research demo** | [Interactive ChronoRoute website](https://aeehprrst.github.io/chronoroute/) |
 
-## `05 // GITHUB SIGNAL`
 
-<div align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=aeehprrst&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1321&title_color=59E7FF&text_color=C8D6F0&icon_color=A789FF" alt="GitHub contribution statistics" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aeehprrst&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1321&title_color=59E7FF&text_color=C8D6F0" alt="Most-used languages" />
-</div>
-
-## `06 // CONTRIBUTION ENGINE`
+## `05 // CONTRIBUTION ENGINE`
 
 <div align="center">
   <picture>
