@@ -91,6 +91,7 @@ $ methodology
 </div>
 
 
+
 ## `03 // FEATURED PROJECTS`
 
 <p align="center">
@@ -104,19 +105,27 @@ $ methodology
 <h3 align="center">🛰️ CHRONOROUTE</h3>
 
 <p align="center">
-  <b>Routing Beyond the Horizon</b>
+  <b>Intelligent Satellite Network Routing</b>
 </p>
 
 <p>
-  Research-oriented LEO satellite networking,
-  exploring deadline-aware routing, orbital
-  simulations, and network performance.
+  Advanced LEO satellite networking system
+  implementing deadline-aware IPv6 source
+  routing, custom T-CRH headers, gray-failure
+  detection, and adaptive fallback forwarding.
+</p>
+
+<p>
+  Validated through large-scale orbital
+  simulations, ns-3 experiments, and
+  cross-implementation protocol testing.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1321?style=for-the-badge&logo=python&logoColor=70E8FF"/>
-  <img src="https://img.shields.io/badge/C++-0D1321?style=for-the-badge&logo=cplusplus&logoColor=A789FF"/>
-  <img src="https://img.shields.io/badge/ns--3-0D1321?style=for-the-badge&logoColor=70E8FF"/>
+  <img src="https://img.shields.io/badge/Python-0D1321?style=flat-square&logo=python&logoColor=70E8FF"/>
+  <img src="https://img.shields.io/badge/C++-0D1321?style=flat-square&logo=cplusplus&logoColor=A789FF"/>
+  <img src="https://img.shields.io/badge/IPv6-0D1321?style=flat-square&logoColor=70E8FF"/>
+  <img src="https://img.shields.io/badge/ns--3-0D1321?style=flat-square&logoColor=A789FF"/>
 </p>
 
 <p align="center">
@@ -131,19 +140,28 @@ $ methodology
 <h3 align="center">⚡ GRIDSENSE</h3>
 
 <p align="center">
-  <b>Intelligent Power Grid Analysis</b>
+  <b>AI-Powered Power Grid Intelligence</b>
 </p>
 
 <p>
-  Exploring cascading grid failures,
-  root-cause analysis, preventive
-  simulations, and predictive maintenance.
+  Intelligent power-grid analysis platform
+  combining Graph Neural Networks,
+  physics-based simulations, and an
+  interactive 3D digital twin.
+</p>
+
+<p>
+  Predicts cascading failures, identifies
+  root causes, evaluates preventive
+  interventions, and provides
+  data-driven insights into grid resilience.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1321?style=for-the-badge&logo=python&logoColor=70E8FF"/>
-  <img src="https://img.shields.io/badge/FastAPI-0D1321?style=for-the-badge&logo=fastapi&logoColor=A789FF"/>
-  <img src="https://img.shields.io/badge/React-0D1321?style=for-the-badge&logo=react&logoColor=70E8FF"/>
+  <img src="https://img.shields.io/badge/Python-0D1321?style=flat-square&logo=python&logoColor=70E8FF"/>
+  <img src="https://img.shields.io/badge/PyTorch-0D1321?style=flat-square&logo=pytorch&logoColor=A789FF"/>
+  <img src="https://img.shields.io/badge/FastAPI-0D1321?style=flat-square&logo=fastapi&logoColor=70E8FF"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1321?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/>
 </p>
 
 <p align="center">
@@ -156,76 +174,77 @@ $ methodology
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">💻 M.E.R.C. PLATFORM</h3>
+<h3 align="center">🌐 M.E.R.C.</h3>
 
 <p align="center">
-  <b>Full-Stack Web Engineering</b>
+  <b>Multi-campus Educational Resource Commerce</b>
 </p>
 
 <p>
-  Building modern web experiences
-  with a TypeScript-based application
-  architecture.
+  A multi-campus peer-to-peer marketplace
+  designed for university communities.
+</p>
+
+<p>
+  Features institution-verified access,
+  student marketplace listings,
+  community buying requests,
+  seller ratings, and integrated
+  buyer-seller messaging.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0D1321?style=for-the-badge&logo=typescript&logoColor=70E8FF"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1321?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1321?style=flat-square&logo=typescript&logoColor=70E8FF"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1321?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Full--Stack-0D1321?style=flat-square&logoColor=A789FF"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/aeehprrst/merc-platform">SOURCE CODE</a>
+  |
+  <a href="https://merc-platform.vercel.app/">LIVE PLATFORM</a>
 </p>
 
 </td>
-
-
-
 <td width="50%" valign="top">
 
 <h3 align="center">🧭 DRY RUN</h3>
 
 <p align="center">
-  <b>Intelligent SaaS Onboarding & UX Analysis</b>
-</p>
-
-<p align="center">
-  <i>Find where onboarding breaks.
-  Before anyone signs up.</i>
+  <b>Intelligent SaaS Onboarding Analysis</b>
 </p>
 
 <p>
-  An intelligent SaaS onboarding analysis
-  platform designed to identify usability
-  bottlenecks, accessibility barriers,
-  and user friction before deployment.
+  A usability intelligence platform
+  designed to discover onboarding friction,
+  accessibility barriers, and confusing
+  application workflows before deployment.
 </p>
 
 <p>
-  Maps application workflows, simulates
-  diverse synthetic user journeys,
-  and identifies problematic screens
-  to help developers create more
-  accessible onboarding experiences.
+  Combines application mapping and
+  synthetic user-journey simulations
+  to identify problematic interfaces,
+  rank usability issues, and support
+  more accessible product experiences.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0D1321?style=for-the-badge&logo=typescript&logoColor=70E8FF"/>
-  <img src="https://img.shields.io/badge/Playwright-0D1321?style=for-the-badge&logo=playwright&logoColor=A789FF"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1321?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Fastify-0D1321?style=for-the-badge&logo=fastify&logoColor=70E8FF"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1321?style=flat-square&logo=typescript&logoColor=70E8FF"/>
+  <img src="https://img.shields.io/badge/Playwright-0D1321?style=flat-square&logo=playwright&logoColor=A789FF"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1321?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Fastify-0D1321?style=flat-square&logo=fastify&logoColor=70E8FF"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/aeehprrst/DEBUGGERS_DryRun">
-    SOURCE CODE
-  </a>
+  <a href="https://github.com/aeehprrst/DEBUGGERS_DryRun">SOURCE CODE</a>
 </p>
 
 </td>
-
 </tr>
 </table>
+
+---
 
 
 ## `04 // ENGINEERING PROOF`
