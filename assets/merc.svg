@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="M.E.R.C. project banner">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08101f"/><stop offset=".55" stop-color="#101a34"/><stop offset="1" stop-color="#080d1b"/></linearGradient>
+      <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#77DFFF"/><stop offset="1" stop-color="#A88AFF"/></linearGradient>
+      <radialGradient id="halo"><stop stop-color="#77DFFF" stop-opacity=".23"/><stop offset="1" stop-color="#77DFFF" stop-opacity="0"/></radialGradient>
+      <pattern id="grid" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#7EA4E7" stroke-opacity=".07"/></pattern>
+      <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="6"/></filter>
+    </defs>
+    <rect width="1200" height="400" rx="22" fill="url(#bg)"/>
+    <rect width="1200" height="400" rx="22" fill="url(#grid)"/>
+    <circle cx="960" cy="190" r="280" fill="url(#halo)"/>
+    <path d="M22 77V22H77M1123 22H1178V77M22 324V378H77M1123 378H1178V324" fill="none" stroke="#77DFFF" stroke-width="3"/>
+    <path d="M55 87H665" stroke="#7391C7" opacity=".25"/>
+    <text x="58" y="62" fill="#77DFFF" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="18" letter-spacing="3">03 // WEB PLATFORMS</text>
+    <text x="55" y="176" fill="#FFFFFF" font-family="DejaVu Sans, Arial, sans-serif" font-weight="800" font-size="54" letter-spacing="1">M.E.R.C.</text>
+    <text x="57" y="221" fill="#B4C9EA" font-family="DejaVu Sans, Arial, sans-serif" font-weight="500" font-size="21" letter-spacing="0">Multi-campus Student Marketplace</text>
+    <rect x="57" y="247" width="565" height="3" rx="2" fill="url(#shine)" opacity=".8"/>
+    <text x="57" y="305" fill="#77DFFF" font-family="DejaVu Sans, Arial, sans-serif" font-weight="650" font-size="17" letter-spacing="0">TypeScript  •  Next.js  •  Full Stack</text>
+    <text x="58" y="360" fill="#8B9DBC" font-family="DejaVu Sans, Arial, sans-serif" font-weight="650" font-size="14" letter-spacing="2">BUILD  /  EXPERIMENT  /  VERIFY</text>
+    <rect x="755" y="68" width="388" height="274" rx="13" fill="#121E3B" stroke="#74DFFF" stroke-opacity=".7" stroke-width="2"/><path d="M755 105H1143" stroke="#6083B6" stroke-opacity=".65"/><circle cx="776" cy="87" r="5" fill="#F48081"/><circle cx="791" cy="87" r="5" fill="#F4C573"/><circle cx="806" cy="87" r="5" fill="#67DDAA"/><rect x="790" y="126" width="312" height="33" rx="11" fill="#233452" stroke="#38567B"/><circle cx="815" cy="142" r="7" stroke="#89C9EF" fill="none" stroke-width="2"/><path d="M820 148l7 7" stroke="#89C9EF" stroke-width="2"/><rect x="793" y="180" width="88" height="124" rx="9" fill="#1B2B4A" stroke="#47648B"/><rect x="901" y="180" width="88" height="124" rx="9" fill="#1B2B4A" stroke="#47648B"/><rect x="1009" y="180" width="88" height="124" rx="9" fill="#1B2B4A" stroke="#47648B"/><rect x="818" y="203" width="39" height="47" rx="4" fill="#67C6E8"/><rect x="813" y="248" width="48" height="4" fill="#A789FF"/><rect x="921" y="220" width="48" height="30" rx="3" fill="#BFA375"/><path d="M921 219l24-12 24 12" fill="#E9C890"/><path d="M1030 250v-33l12-10h24l12 10v33z" fill="#9C9FF5"/><path d="M1038 212c0-20 30-20 30 0" fill="none" stroke="#9C9FF5" stroke-width="6"/><rect x="804" y="271" width="60" height="6" rx="3" fill="#607CA6"/><rect x="804" y="284" width="42" height="5" rx="3" fill="#3D557D"/><rect x="912" y="271" width="60" height="6" rx="3" fill="#607CA6"/><rect x="912" y="284" width="42" height="5" rx="3" fill="#3D557D"/><rect x="1020" y="271" width="60" height="6" rx="3" fill="#607CA6"/><rect x="1020" y="284" width="42" height="5" rx="3" fill="#3D557D"/>
+    <rect x="1.5" y="1.5" width="1197" height="397" rx="20" fill="none" stroke="#77DFFF" stroke-opacity=".4" stroke-width="2"/>
+    </svg>
