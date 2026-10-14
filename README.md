@@ -47,11 +47,8 @@
 
 <br/>
 
-<div align="center">
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=aeehprrst&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=12" alt="GitHub trophies" />
-
-</div>
 ## `01 // ABOUT THE DEVELOPER`
 
 I'm **Arshpreet Gaba**, a Computer Science student at **VIT Vellore**. I enjoy exploring how complex systems behave — from **satellite network routing** and **power-grid failure analysis** to **modern web applications**.
