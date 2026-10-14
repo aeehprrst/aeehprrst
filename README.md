@@ -90,39 +90,121 @@ $ methodology
 
 </div>
 
-## `03 // FEATURED BUILDS`
 
-### 🛰️ [ChronoRoute — Routing Beyond the Horizon](https://github.com/aeehprrst/chronoroute)
+## `03 // FEATURED PROJECTS`
 
-**LEO satellite networking | Python · C++ · ns-3 · IPv6 · TypeScript**
+<p align="center">
+  <b>SELECTED BUILDS // ENGINEERING IN ACTION</b>
+</p>
 
-A research-oriented project exploring **deadline-aware source routing** for low-Earth-orbit satellite constellations. Includes a custom IPv6 routing header, a Python reference simulator, ns-3 implementation, experiments, validation tests, and an interactive satellite-routing website built on public orbital data.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[🌐 Explore the interactive lab](https://aeehprrst.github.io/chronoroute/)** · **[📁 Source & documentation](https://github.com/aeehprrst/chronoroute)** · **[🧪 Experiments](https://github.com/aeehprrst/chronoroute/tree/main/experiments)**
+<h3 align="center">🛰️ CHRONOROUTE</h3>
 
-### ⚡ [GridSense — Understanding Grid Failures](https://github.com/aeehprrst/GridSense)
+<p align="center">
+  <b>Routing Beyond the Horizon</b>
+</p>
 
-**Power-grid intelligence | Python · FastAPI · React**
+<p>
+  Research-oriented LEO satellite networking,
+  exploring deadline-aware routing, orbital
+  simulations, and network performance.
+</p>
 
-A hackathon project exploring **cascading power-grid failures**, root-cause analysis, simulations of preventive interventions, and equipment predictive maintenance.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1321?style=for-the-badge&logo=python&logoColor=70E8FF"/>
+  <img src="https://img.shields.io/badge/C++-0D1321?style=for-the-badge&logo=cplusplus&logoColor=A789FF"/>
+  <img src="https://img.shields.io/badge/ns--3-0D1321?style=for-the-badge&logoColor=70E8FF"/>
+</p>
 
-**[📁 Explore the project](https://github.com/aeehprrst/GridSense)** · **[📖 Project overview](https://github.com/aeehprrst/GridSense/blob/main/PROJECT-OVERVIEW.md)**
+<p align="center">
+  <a href="https://github.com/aeehprrst/chronoroute">SOURCE CODE</a>
+  |
+  <a href="https://aeehprrst.github.io/chronoroute/">LIVE DEMO</a>
+</p>
 
-### 🧩 [M.E.R.C. Platform — Web Application](https://github.com/aeehprrst/merc-platform)
+</td>
+<td width="50%" valign="top">
 
-**Web engineering | TypeScript · Next.js**
+<h3 align="center">⚡ GRIDSENSE</h3>
 
-A TypeScript/Next.js web platform, part of my work building and deploying modern web applications.
+<p align="center">
+  <b>Intelligent Power Grid Analysis</b>
+</p>
 
-**[📁 Source code](https://github.com/aeehprrst/merc-platform)** · **[🌐 Live site](https://merc-platform.vercel.app/)**
+<p>
+  Exploring cascading grid failures,
+  root-cause analysis, preventive
+  simulations, and predictive maintenance.
+</p>
 
-### 🏥 [MediKiosk — Patient Test-Case Storage](https://github.com/aeehprrst/medikiosk)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1321?style=for-the-badge&logo=python&logoColor=70E8FF"/>
+  <img src="https://img.shields.io/badge/FastAPI-0D1321?style=for-the-badge&logo=fastapi&logoColor=A789FF"/>
+  <img src="https://img.shields.io/badge/React-0D1321?style=for-the-badge&logo=react&logoColor=70E8FF"/>
+</p>
 
-**Application development | TypeScript · Next.js**
+<p align="center">
+  <a href="https://github.com/aeehprrst/GridSense">SOURCE CODE</a>
+</p>
 
-An application project focused on storing and organizing patient test-case information.
+</td>
+</tr>
 
-**[📁 Source code](https://github.com/aeehprrst/medikiosk)**
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">💻 M.E.R.C. PLATFORM</h3>
+
+<p align="center">
+  <b>Full-Stack Web Engineering</b>
+</p>
+
+<p>
+  Building modern web experiences
+  with a TypeScript-based application
+  architecture.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-0D1321?style=for-the-badge&logo=typescript&logoColor=70E8FF"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1321?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aeehprrst/merc-platform">SOURCE CODE</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🏥 MEDIKIOSK</h3>
+
+<p align="center">
+  <b>Patient Test-Case Management</b>
+</p>
+
+<p>
+  An application project focused
+  on organizing and storing
+  patient test-case information.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-0D1321?style=for-the-badge&logo=typescript&logoColor=A789FF"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1321?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aeehprrst/medikiosk">SOURCE CODE</a>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ## `04 // ENGINEERING PROOF`
 
