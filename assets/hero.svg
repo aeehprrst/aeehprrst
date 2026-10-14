@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Arshpreet Gaba developer profile banner. Futuristic neon cyan and violet network visualization.">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#080c1c"/><stop offset="56%" stop-color="#121932"/><stop offset="100%" stop-color="#08162a"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4ce8ff"/><stop offset="55%" stop-color="#82a7ff"/><stop offset="100%" stop-color="#b97dff"/></linearGradient>
+ <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#43ecff" stop-opacity=".95"/><stop offset="60%" stop-color="#7e8fff" stop-opacity=".75"/><stop offset="100%" stop-color="#c287ff" stop-opacity=".9"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#5f6bff" stop-opacity=".28"/><stop offset="100%" stop-color="#070a1b" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#539dcb" stroke-width=".65" stroke-opacity=".11"/></pattern>
+ <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="bounds"><rect x="0" y="0" width="1200" height="360" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#bounds)">
+ <rect width="1200" height="360" fill="url(#bg)"/>
+ <rect width="1200" height="360" fill="url(#grid)"/>
+ <ellipse cx="1005" cy="157" rx="307" ry="270" fill="url(#halo)"/>
+ <path d="M0 0H1200V360H0Z" fill="none" stroke="#3a5e8c" stroke-width="2"/>
+ <path d="M0 18H18V0M1182 0V18H1200M0 342H18V360M1182 360V342H1200" fill="none" stroke="#50e9ff" stroke-width="3"/>
+ <line x1="56" y1="60" x2="1150" y2="60" stroke="#6edfff" stroke-opacity=".18"/>
+ <text x="58" y="42" font-size="18" letter-spacing="3" font-weight="600" fill="#65eaff" font-family="Consolas, Menlo, monospace">&gt; BOOTING PROFILE_</text>
+ <text x="637" y="42" font-size="13" letter-spacing="2" fill="#b8c6e4" font-family="Consolas, Menlo, monospace">aeehprrst / DEV SYSTEMS / 001</text>
+ <path d="M59 91H109" stroke="#59f0ff" stroke-width="5" stroke-linecap="round"/>
+ <text x="56" y="166" font-size="67" font-weight="800" letter-spacing="1.1" fill="#ffffff" font-family="Arial, Helvetica, sans-serif">ARSHpreet</text>
+ <text x="57" y="248" font-size="78" font-weight="800" letter-spacing="4" fill="url(#neon)" font-family="Arial, Helvetica, sans-serif">GABA<tspan fill="#ffffff">.</tspan></text>
+ <text x="61" y="285" font-size="17" letter-spacing="3.3" fill="#d4def4" font-family="Consolas, Menlo, monospace">BUILD  /  EXPERIMENT  /  VERIFY</text>
+ <line x1="58" y1="311" x2="608" y2="311" stroke="#6b86ac" stroke-opacity=".32"/>
+ <circle cx="68" cy="332" r="4" fill="#44f7cb"/><text x="83" y="337" font-size="13" letter-spacing="2" fill="#9facce" font-family="Consolas, Menlo, monospace">NETWORKS · INTELLIGENT SYSTEMS · SOFTWARE</text>
+
+<g opacity=".75">
+ <circle cx="960" cy="195" r="133" fill="none" stroke="url(#ring)" stroke-width="1.6"/>
+ <circle cx="960" cy="195" r="98" fill="none" stroke="#4a9ac8" stroke-width="1" stroke-dasharray="5 11"/>
+ <circle cx="960" cy="195" r="58" fill="none" stroke="#936af5" stroke-width="1.4"/>
+ <ellipse cx="960" cy="195" rx="160" ry="57" fill="none" stroke="#74caff" stroke-width="1.3" transform="rotate(-22 960 195)"/>
+ <ellipse cx="960" cy="195" rx="76" ry="151" fill="none" stroke="#9c7aff" stroke-width="1.3" transform="rotate(27 960 195)"/>
+ <path d="M736 196H1180M960 64V331" stroke="#6786be" stroke-opacity=".32" stroke-width="1" stroke-dasharray="5 8"/>
+ <path d="M960 73L1077 129L1117 259L995 325L862 287L833 161Z" fill="none" stroke="#5e78e0" stroke-width="1.3" stroke-opacity=".68"/>
+ <path d="M833 161L995 325M862 287L1077 129M960 73L1117 259" stroke="#438eb2" stroke-opacity=".33"/>
+ </g>
+
+<circle cx="960" cy="73" r="13" fill="#56eaff" opacity=".07"/><circle cx="960" cy="73" r="6" fill="#56eaff" stroke="#e2fbff" stroke-width=".9"/>
+<circle cx="1077" cy="129" r="13" fill="#b07dff" opacity=".07"/><circle cx="1077" cy="129" r="6" fill="#b07dff" stroke="#e2fbff" stroke-width=".9"/>
+<circle cx="1117" cy="259" r="13" fill="#54edff" opacity=".07"/><circle cx="1117" cy="259" r="6" fill="#54edff" stroke="#e2fbff" stroke-width=".9"/>
+<circle cx="995" cy="325" r="13" fill="#b07dff" opacity=".07"/><circle cx="995" cy="325" r="6" fill="#b07dff" stroke="#e2fbff" stroke-width=".9"/>
+<circle cx="862" cy="287" r="13" fill="#56eaff" opacity=".07"/><circle cx="862" cy="287" r="6" fill="#56eaff" stroke="#e2fbff" stroke-width=".9"/>
+<circle cx="833" cy="161" r="13" fill="#b07dff" opacity=".07"/><circle cx="833" cy="161" r="6" fill="#b07dff" stroke="#e2fbff" stroke-width=".9"/>
+<circle cx="960" cy="195" r="17" fill="#ffffff" opacity=".07"/><circle cx="960" cy="195" r="10" fill="#ffffff" stroke="#e2fbff" stroke-width=".9"/>
+<circle cx="960" cy="195" r="24" fill="#152643" stroke="#85b7ff" stroke-width="1.3"/>
+ <path d="M944 195H976M960 179V211" stroke="#97f7ff" stroke-width="2.4"/>
+ <rect x="779" y="82" width="106" height="29" rx="7" fill="#17243d" stroke="#58cfff" stroke-opacity=".6"/>
+ <text x="793" y="101" font-size="12" letter-spacing="1.5" fill="#6becff" font-family="Consolas, Menlo, monospace">LINK ACTIVE</text>
+ <rect x="1050" y="302" width="110" height="29" rx="7" fill="#17243d" stroke="#a086ff" stroke-opacity=".6"/>
+ <text x="1062" y="322" font-size="12" letter-spacing="1.6" fill="#c9b5ff" font-family="Consolas, Menlo, monospace">BUILD: 001</text>
+</g></svg>
