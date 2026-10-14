@@ -90,8 +90,6 @@ $ methodology
 
 </div>
 
-
-
 ## `03 // FEATURED PROJECTS`
 
 <p align="center">
@@ -99,153 +97,47 @@ $ methodology
 </p>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🛰️ CHRONOROUTE</h3>
-
-<p align="center">
-  <b>Intelligent Satellite Network Routing</b>
-</p>
-
-<p>
-  Advanced LEO satellite networking system
-  implementing deadline-aware IPv6 source
-  routing, custom T-CRH headers, gray-failure
-  detection, and adaptive fallback forwarding.
-</p>
-
-<p>
-  Validated through large-scale orbital
-  simulations, ns-3 experiments, and
-  cross-implementation protocol testing.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1321?style=flat-square&logo=python&logoColor=70E8FF"/>
-  <img src="https://img.shields.io/badge/C++-0D1321?style=flat-square&logo=cplusplus&logoColor=A789FF"/>
-  <img src="https://img.shields.io/badge/IPv6-0D1321?style=flat-square&logoColor=70E8FF"/>
-  <img src="https://img.shields.io/badge/ns--3-0D1321?style=flat-square&logoColor=A789FF"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aeehprrst/chronoroute">SOURCE CODE</a>
-  |
-  <a href="https://aeehprrst.github.io/chronoroute/">LIVE DEMO</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">⚡ GRIDSENSE</h3>
-
-<p align="center">
-  <b>AI-Powered Power Grid Intelligence</b>
-</p>
-
-<p>
-  Intelligent power-grid analysis platform
-  combining Graph Neural Networks,
-  physics-based simulations, and an
-  interactive 3D digital twin.
-</p>
-
-<p>
-  Predicts cascading failures, identifies
-  root causes, evaluates preventive
-  interventions, and provides
-  data-driven insights into grid resilience.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1321?style=flat-square&logo=python&logoColor=70E8FF"/>
-  <img src="https://img.shields.io/badge/PyTorch-0D1321?style=flat-square&logo=pytorch&logoColor=A789FF"/>
-  <img src="https://img.shields.io/badge/FastAPI-0D1321?style=flat-square&logo=fastapi&logoColor=70E8FF"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1321?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aeehprrst/GridSense">SOURCE CODE</a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 M.E.R.C.</h3>
-
-<p align="center">
-  <b>Multi-campus Educational Resource Commerce</b>
-</p>
-
-<p>
-  A multi-campus peer-to-peer marketplace
-  designed for university communities.
-</p>
-
-<p>
-  Features institution-verified access,
-  student marketplace listings,
-  community buying requests,
-  seller ratings, and integrated
-  buyer-seller messaging.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0D1321?style=flat-square&logo=typescript&logoColor=70E8FF"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1321?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Full--Stack-0D1321?style=flat-square&logoColor=A789FF"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aeehprrst/merc-platform">SOURCE CODE</a>
-  |
-  <a href="https://merc-platform.vercel.app/">LIVE PLATFORM</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🧭 DRY RUN</h3>
-
-<p align="center">
-  <b>Intelligent SaaS Onboarding Analysis</b>
-</p>
-
-<p>
-  A usability intelligence platform
-  designed to discover onboarding friction,
-  accessibility barriers, and confusing
-  application workflows before deployment.
-</p>
-
-<p>
-  Combines application mapping and
-  synthetic user-journey simulations
-  to identify problematic interfaces,
-  rank usability issues, and support
-  more accessible product experiences.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0D1321?style=flat-square&logo=typescript&logoColor=70E8FF"/>
-  <img src="https://img.shields.io/badge/Playwright-0D1321?style=flat-square&logo=playwright&logoColor=A789FF"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1321?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Fastify-0D1321?style=flat-square&logo=fastify&logoColor=70E8FF"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aeehprrst/DEBUGGERS_DryRun">SOURCE CODE</a>
-</p>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aeehprrst/chronoroute">
+        <img src="./assets/projects/chronoroute-card.png" width="100%" alt="ChronoRoute — intelligent satellite network routing"/>
+      </a>
+      <p align="center">
+        <a href="https://github.com/aeehprrst/chronoroute">📁 Source Code</a>
+        &nbsp; | &nbsp;
+        <a href="https://aeehprrst.github.io/chronoroute/">🌐 Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aeehprrst/GridSense">
+        <img src="./assets/projects/gridsense-card.png" width="100%" alt="GridSense — AI-powered power grid intelligence"/>
+      </a>
+      <p align="center">
+        <a href="https://github.com/aeehprrst/GridSense">📁 Source Code</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aeehprrst/merc-platform">
+        <img src="./assets/projects/merc-card.png" width="100%" alt="M.E.R.C. — multi-campus educational resource commerce"/>
+      </a>
+      <p align="center">
+        <a href="https://github.com/aeehprrst/merc-platform">📁 Source Code</a>
+        &nbsp; | &nbsp;
+        <a href="https://merc-platform.vercel.app/">🌐 Live Platform</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aeehprrst/DEBUGGERS_DryRun">
+        <img src="./assets/projects/dry-run-card.png" width="100%" alt="Dry Run — intelligent SaaS onboarding analysis"/>
+      </a>
+      <p align="center">
+        <a href="https://github.com/aeehprrst/DEBUGGERS_DryRun">📁 Source Code</a>
+      </p>
+    </td>
+  </tr>
 </table>
-
----
-
 
 ## `04 // ENGINEERING PROOF`
 
