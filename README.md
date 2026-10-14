@@ -180,12 +180,13 @@ $ methodology
 </td>
 
 
+
 <td width="50%" valign="top">
 
 <h3 align="center">🧭 DRY RUN</h3>
 
 <p align="center">
-  <b>Intelligent SaaS Onboarding Analysis</b>
+  <b>Intelligent SaaS Onboarding & UX Analysis</b>
 </p>
 
 <p align="center">
@@ -194,10 +195,18 @@ $ methodology
 </p>
 
 <p>
-  Dry Run proposes mapping application
-  workflows, simulating diverse synthetic
-  users, and ranking onboarding friction
-  to help developers improve user experiences.
+  An intelligent SaaS onboarding analysis
+  platform designed to identify usability
+  bottlenecks, accessibility barriers,
+  and user friction before deployment.
+</p>
+
+<p>
+  Maps application workflows, simulates
+  diverse synthetic user journeys,
+  and identifies problematic screens
+  to help developers create more
+  accessible onboarding experiences.
 </p>
 
 <p align="center">
@@ -214,6 +223,7 @@ $ methodology
 </p>
 
 </td>
+
 </tr>
 </table>
 
