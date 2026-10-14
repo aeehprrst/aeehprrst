@@ -179,28 +179,44 @@ $ methodology
 
 </td>
 
+
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ DEBUGGERS — DRY RUN</h3>
+<h3 align="center">🧭 DRY RUN</h3>
 
 <p align="center">
-  <b>Development | Problem Solving | Innovation</b>
+  <b>Intelligent SaaS Onboarding Analysis</b>
+</p>
+
+<p align="center">
+  <i>Find where onboarding breaks.
+  Before anyone signs up.</i>
 </p>
 
 <p>
-  A TypeScript-based development project
-  from DEBUGGERS, showcasing practical
-  programming, experimentation, and
-  technical problem-solving.
+  A WE Hack 5.0 project concept designed
+  to identify usability and accessibility
+  barriers before a product launches.
+</p>
+
+<p>
+  Dry Run proposes mapping application
+  workflows, simulating diverse synthetic
+  users, and ranking onboarding friction
+  to help developers improve user experiences.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-0D1321?style=for-the-badge&logo=typescript&logoColor=70E8FF"/>
-  <img src="https://img.shields.io/badge/DEBUGGERS-0D1321?style=for-the-badge&logo=github&logoColor=A789FF"/>
+  <img src="https://img.shields.io/badge/Playwright-0D1321?style=for-the-badge&logo=playwright&logoColor=A789FF"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1321?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Fastify-0D1321?style=for-the-badge&logo=fastify&logoColor=70E8FF"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/aeehprrst/DEBUGGERS_DryRun">SOURCE CODE</a>
+  <a href="https://github.com/aeehprrst/DEBUGGERS_DryRun">
+    SOURCE CODE
+  </a>
 </p>
 
 </td>
