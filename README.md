@@ -12,6 +12,23 @@
 
 ---
 
+<!-- FUTURISTIC ANIMATED DEVELOPER TERMINAL -->
+
+<h2 align="center">⌘ SYSTEM TERMINAL // ONLINE</h2>
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=70E8FF&background=0D1321&center=true&vCenter=true&width=800&height=65&lines=%24+whoami+%3A+Arshpreet+Gaba;%24+focus+%3A+Satellite+Networks+%7C+Intelligent+Systems;%24+stack+%3A+Python+%7C+TypeScript+%7C+C%2B%2B;%24+status+%3A+Building+Beyond+Boundaries"
+  alt="Animated Developer Terminal"
+/>
+
+</div>
+
+<br/>
+
+<!-- END DEVELOPER TERMINAL -->
+
 ## `01 // ABOUT THE DEVELOPER`
 
 I'm **Arshpreet Gaba**, a Computer Science student at **VIT Vellore**. I enjoy exploring how complex systems behave — from **satellite network routing** and **power-grid failure analysis** to **modern web applications**.
