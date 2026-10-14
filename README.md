@@ -178,27 +178,29 @@ $ methodology
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
-<h3 align="center">🏥 MEDIKIOSK</h3>
+<h3 align="center">⚡ DEBUGGERS — DRY RUN</h3>
 
 <p align="center">
-  <b>Patient Test-Case Management</b>
+  <b>Development | Problem Solving | Innovation</b>
 </p>
 
 <p>
-  An application project focused
-  on organizing and storing
-  patient test-case information.
+  A TypeScript-based development project
+  from DEBUGGERS, showcasing practical
+  programming, experimentation, and
+  technical problem-solving.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0D1321?style=for-the-badge&logo=typescript&logoColor=A789FF"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1321?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1321?style=for-the-badge&logo=typescript&logoColor=70E8FF"/>
+  <img src="https://img.shields.io/badge/DEBUGGERS-0D1321?style=for-the-badge&logo=github&logoColor=A789FF"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/aeehprrst/medikiosk">SOURCE CODE</a>
+  <a href="https://github.com/aeehprrst/DEBUGGERS_DryRun">SOURCE CODE</a>
 </p>
 
 </td>
