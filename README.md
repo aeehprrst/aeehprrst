@@ -194,12 +194,6 @@ $ methodology
 </p>
 
 <p>
-  A WE Hack 5.0 project concept designed
-  to identify usability and accessibility
-  barriers before a product launches.
-</p>
-
-<p>
   Dry Run proposes mapping application
   workflows, simulating diverse synthetic
   users, and ranking onboarding friction
