@@ -28,7 +28,30 @@
 <br/>
 
 <!-- END DEVELOPER TERMINAL -->
+## `00 // FUTURISTIC DASHBOARD`
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aeehprrst&show_icons=true&theme=transparent&hide_border=true&title_color=70E8FF&text_color=C9D1D9&icon_color=A789FF&ring_color=70E8FF" />
+<img height="170" src="https://streak-stats.demolab.com?user=aeehprrst&theme=transparent&hide_border=true&ring=70E8FF&fire=A789FF&currStreakLabel=70E8FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeehprrst&layout=compact&theme=transparent&hide_border=true&title_color=70E8FF&text_color=C9D1D9" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aeehprrst&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=12" alt="GitHub trophies" />
+
+</div>
 ## `01 // ABOUT THE DEVELOPER`
 
 I'm **Arshpreet Gaba**, a Computer Science student at **VIT Vellore**. I enjoy exploring how complex systems behave — from **satellite network routing** and **power-grid failure analysis** to **modern web applications**.
